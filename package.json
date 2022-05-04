@@ -15,10 +15,10 @@
   "main": "index.js",
   "devDependencies": {
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.16"
   },
   "scripts": {
-    "start": "index.js"
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",

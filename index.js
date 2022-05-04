@@ -15,11 +15,11 @@ const POST = 5001;
 
 // config
 app.use('/assets', express.static('assets'));
+app.use(cors());
 dotenv.config();
 app.use(express.json());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
-app.use(cors());
 app.use(morgan('combined'));
 
 // routers
