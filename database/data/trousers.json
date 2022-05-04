@@ -1,0 +1,276 @@
+[
+    {
+        "name": "QUẦN ÁO DÀI Q12732Q",
+        "img": [
+            "/assets/trousers/trouser-1a_1_11zon.png",
+            "/assets/trousers/trouser-1b_2_11zon.png",
+            "/assets/trousers/trouser-1c_3_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code": 121421548762540605,
+        "price": 659000,
+        "size": ["size-6", "size-8"],
+        "color": ["pink","white"],
+        "material": "vải lụa cao cấp",
+        "designs": "quần áo dáng kéo quá giọt lệ, tone màu hồng trơn",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-AO-DAI-Q12732Q"
+    },
+    {
+        "name": "QUẦN ĐEN ỐNG ĐỨNG Q13142W",
+        "img": [
+            "/assets/trousers/trouser-2a_4_11zon.png",
+            "/assets/trousers/trouser-2b_5_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code": 121421548762552145,
+        "price": 799000,
+        "size": ["size-6", "size-8","size-10"],
+        "color": ["yellow"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế ống đứng tone màu đen trơn, cạp thường",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-ĐEN-ONG-ĐUNG-Q13142W"
+    },
+    {
+        "name": "QUẦN BAGGY THIẾT KẾ Q12692E",
+        "img": [
+            "/assets/trousers/trouser-3a_6_11zon.png",
+            "/assets/trousers/trouser-3b_7_11zon.png",
+            "/assets/trousers/trouser-3c_8_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code": 126921722111160418,
+        "price": 799000,
+        "size": ["size-4","size-6", "size-8"],
+        "color": ["blue","brown"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng baggy, tone màu xanh trơn, cạp phối đỉa",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-BAGGY-THIET-KE-Q12692E"
+    },
+    {
+        "name": "QUẦN THIẾT KẾ BO ỐNG Q12032R",
+        "img": [
+            "/assets/trousers/trouser-4a_9_11zon.png",
+            "/assets/trousers/trouser-4b_10_11zon.png",
+            "/assets/trousers/trouser-4c_11_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code": 120321722124140218,
+        "price": 759000,
+        "size": ["size-2","size-4", "size-8"],
+        "color": ["black","brown"],
+        "material": "vải dạ cao cấp ",
+        "designs": "quần thiết kế dáng baggy, tone màu nâu, gấu bo kết hợp khuy đính",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ thanh lịch cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-THIET-KE-BO-ONG-Q12032R"
+    },
+    {
+        "name": "QUẦN THIẾT KẾ Q14242T",
+        "img": [
+            "/assets/trousers/trouser-5a_12_11zon.png",
+            "/assets/trousers/trouser-5b_13_11zon.png",
+            "/assets/trousers/trouser-5c_14_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  142421722124150201,
+        "price": 799000,
+        "size": ["size-2","size-4", "size-8"],
+        "color": ["yellow","black"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng ống đứng, tone màu vàng nhạt, cạp thường",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ thanh lịch cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-THIET-KE-Q14242T"
+    },
+    {
+        "name": "QUẦN THIẾT KẾ Q14242Y",
+        "img": [
+            "/assets/trousers/trouser-6a_15_11zon.png",
+            "/assets/trousers/trouser-6b_16_11zon.png",
+            "/assets/trousers/trouser-6c_17_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  142421722124120401,
+        "price": 799000,
+        "size": ["size-2","size-4", "size-8"],
+        "color": ["pink","white"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng ống đứng, tone màu hồng pastel, cạp thường",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ thanh lịch cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-THIET-KE-Q14242Y"
+    },
+    {
+        "name": "QUẦN THIẾT KẾ Q14242U",
+        "img": [
+            "/assets/trousers/trouser-7a_18_11zon.png",
+            "/assets/trousers/trouser-7b_19_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  142421722124110401,
+        "price": 799000,
+        "size": ["size-4", "size-10"],
+        "color": ["black"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế ống đứng , dáng lửng , tone màu đen trơn",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-THIET-KE-Q14242U"
+    },
+    {
+        "name": "QUẦN BAGGY THIẾT KẾ Q10822I",
+        "img": [
+            "/assets/trousers/trouser-8a_20_11zon.png",
+            "/assets/trousers/trouser-8b_21_11zon.png",
+            "/assets/trousers/trouser-8c_22_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  108221722124140405,
+        "price": 799000,
+        "size": ["size-4", "size-6", "size-8"],
+        "color": ["brown"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng baggy tone màu nâu trơn, cạp trơn phối khuy cài",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-BAGGY-THIET-KE-Q10822I"
+    },
+    {
+        "name": "QUẦN BAGGY THIẾT KẾ Q10822O",
+        "img": [
+            "/assets/trousers/trouser-9a_23_11zon.png",
+            "/assets/trousers/trouser-9b_24_11zon.png",
+            "/assets/trousers/trouser-9c_25_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  108221722124110205,
+        "price": 799000,
+        "size": ["size-2","size-4", "size-6", "size-8"],
+        "color": ["black"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng baggy, tone màu đen trơn, cạp thường",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ thanh lịch cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-BAGGY-THIET-KE-Q10822O"
+    },
+    {
+        "name": "QUẦN ỐNG ĐỨNG Q13252P",
+        "img": [
+            "/assets/trousers/trouser-10a_26_11zon.png",
+            "/assets/trousers/trouser-10b_27_11zon.png",
+            "/assets/trousers/trouser-10c_28_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  132521722121150401,
+        "price": 759000,
+        "size": ["size-2","size-6", "size-8"],
+        "color": ["yellow"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng lửng, tone màu vàng trơn, cạp thường",
+        "fit": " đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-ONG-ĐUNG-Q13252P"
+    },
+    {
+        "name": "QUẦN ỐNG ĐỨNG Q13252A",
+        "img": [
+            "/assets/trousers/trouser-11a_29_11zon.png",
+            "/assets/trousers/trouser-11b_30_11zon.png",
+            "/assets/trousers/trouser-11c_31_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  132521722121120201,
+        "price": 759000,
+        "size": ["size-2","size-4","size-6", "size-8"],
+        "color": ["pink"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng lửng, tone màu hồng trơn, cạp thường",
+        "fit": " đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-ONG-ĐUNG-Q13252A"
+    },
+    {
+        "name": "QUẦN ỐNG ĐỨNG Q13252S",
+        "img": [
+            "/assets/trousers/trouser-12a_32_11zon.png",
+            "/assets/trousers/trouser-12b_33_11zon.png",
+            "/assets/trousers/trouser-12c_34_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-dai"
+        },
+        "code":  132521722121110401,
+        "price": 759000,
+        "size": ["size-2","size-6", "size-8","size-10"],
+        "color": ["black"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "quần thiết kế dáng lửng, tone màu đen trơn, cạp thường",
+        "fit": " đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-ONG-ĐUNG-Q13252S"
+    }
+]

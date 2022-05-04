@@ -1,0 +1,289 @@
+[
+    {
+        "name": "ÁO VEST TAY BỒNG AK09472Q",
+        "img": [
+            "/assets/shirst/shirst-1a_1_11zon.png",
+            "/assets/shirst/shirst-1b_2_11zon.png",
+            "/assets/shirst/shirst-1c_3_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 12142154823540605,
+        "price": 899000,
+        "size": ["size-6", "size-8"],
+        "color": ["white"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế tay bồng, cổ bẻ 2 ve, tone màu trắng trơn",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-TAY-BONG-AK09472Q"
+    },
+    {
+        "name": "ÁO VEST VÀNG TAY LỠ AK13242W",
+        "img": [
+            "/assets/shirst/shirst-2a_4_11zon.png",
+            "/assets/shirst/shirst-2b_5_11zon.png",
+            "/assets/shirst/shirst-1c_3_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 132421612121150401,
+        "price": 1159000,
+        "size": ["size-4","size-6", "size-8"],
+        "color": ["yellow"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế tay lỡ, chiết eo nhẹ, tone màu vàng trơn, cổ bẻ 2 ve",
+        "fit": " đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-VANG-TAY-LO-AK13242W"
+    },
+    {
+        "name": "ÁO VEST HỒNG TAY LỠ AK13242E",
+        "img": [
+            "/assets/shirst/shirst-3a_6_11zon.png",
+            "/assets/shirst/shirst-3b_7_11zon.png",
+            "/assets/shirst/shirst-3c_8_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 132421612121120201,
+        "price": 1159000,
+        "size": ["size-2","size-4","size-6", "size-8"],
+        "color": ["pink","white"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế tay lỡ, chiết eo nhẹ, tone màu hồng trơn, cổ bẻ 2 ve",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-HONG-TAY-LO-AK13242E"
+    },
+    {
+        "name": "ÁO VEST TAY LỠ AK13242R",
+        "img": [
+            "/assets/shirst/shirst-4a_9_11zon.png",
+            "/assets/shirst/shirst-4b_10_11zon.png",
+            "/assets/shirst/shirst-4c_11_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 132421612121110401,
+        "price": 1159000,
+        "size": ["size-4","size-6", "size-8","size-10"],
+        "color": ["black"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế tay lỡ, chiết eo nhẹ, tone màu hồng trơn, cổ bẻ 2 ve",
+        "fit": " đi làm, sự kiện, hay đi dạo phố, tạo vẻ trẻ trung nữ tính cho người mặc",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-TAY-LO-AK13242R"
+    },
+    {
+        "name": "ÁO VEST REN AK11512T",
+        "img": [
+            "/assets/shirst/shirst-5a_12_11zon.png",
+            "/assets/shirst/shirst-5b_13_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 132421612121110401,
+        "price": 769300,
+        "priceOld": 1099000,
+        "sale":39,
+        "size": ["size-4","size-6", "size-8","size-10"],
+        "color": ["pink","white"],
+        "material": "vải ren cao cấp",
+        "designs": "áo vest thiết kế dáng ôm, cổ bẻ 2 ve, tone màu trắng kem ",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-REN-AK11512T"
+    },
+    {
+        "name": "ÁO VEST NGẮN TAY AK12962F",
+        "img": [
+            "/assets/shirst/shirst-6a_14_11zon.png",
+            "/assets/shirst/shirst-6b_15_11zon.png",
+            "/assets/shirst/shirst-6c_16_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 129621312181020201,
+        "price": 799000,
+        "size": ["size-2","size-4", "size-8"],
+        "color": ["pink","white"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "áo vets thiết kế dáng suông, cổ bẻ 2 ve, tone màu hồng pastel",
+        "fit": "đi làm, đi sự kiện, hay đi dạo phố,tạo vẻ trẻ trung quyến nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-NGAN-TAY-AK12962F"
+    },
+    {
+        "name": "ÁO DẠ TWEED THIẾT KẾ AK11472D",
+        "img": [
+            "/assets/shirst/shirst-7a_17_11zon.png",
+            "/assets/shirst/shirst-7b_18_11zon.png",
+            "/assets/shirst/shirst-7c_19_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 114721332114060218,
+        "price": 699500,
+        "priceOld": 1399000,
+        "sale":50,
+        "size": ["size-2","size-4","size-6", "size-8"],
+        "color": ["green"],
+        "material": " vải dạ tweed cao cấp",
+        "designs": "áo thiết kế dáng ngắn cài khuy phía trước, tone màu xanh lá, tay lỡ bồng nhẹ ",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-DA-TWEED-THIET-KE-AK11472D"
+    },
+    {
+        "name": "ÁO DẠ TWEED THIẾT KẾ AK11472S here",
+        "img": [
+            "/assets/shirst/shirst-8a_20_11zon.png",
+            "/assets/shirst/shirst-8b_21_11zon.png",
+            "/assets/shirst/shirst-8c_22_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 114721332114020418,
+        "price": 699500,
+        "priceOld": 1399000,
+        "sale":50,
+        "size": ["size-4","size-6"],
+        "color": ["pink"],
+        "material": " vải dạ tweed cao cấp",
+        "designs": "áo thiết kế dáng ngắn cài khuy phía trước, tone màu xanh lá, tay lỡ bồng nhẹ ",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-DA-TWEED-THIET-KE-AK11472S"
+    },
+    {
+        "name": "ÁO VEST TAY LỠ AK14232A",
+        "img": [
+            "/assets/shirst/shirst-9a_23_11zon.png",
+            "/assets/shirst/shirst-9b_24_11zon.png",
+            "/assets/shirst/shirst-9c_25_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 142321612124110201,
+        "price": 1359000,
+        "size": ["size-2","size-4","size-6"],
+        "color": ["black"],
+        "material": "vải tổng hợp cao cấp",
+        "designs": "áo vest thiết kế dáng thường, chiết eo nhẹ, tone màu đen trơn, tay lỡ qua khuỷu tay",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-TAY-LO-AK14232A"
+    },
+    {
+        "name": "ÁO KHOÁC DẠ TWEED AK12012C",
+        "img": [
+            "/assets/shirst/shirst-10a_26_11zon.png",
+            "/assets/shirst/shirst-10b_27_11zon.png",
+            "/assets/shirst/shirst-10c_28_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 142321612124710201,
+        "price": 699500,
+        "priceOld": 1399000,
+        "sale":50,
+        "size": ["size-2","size-4","size-6"],
+        "color": ["white","yellow"],
+        "material": "vải dạ tweed cao cấp",
+        "designs": "Áo khoác dáng ngắn cài khuy phía trước, vai bồng nhẹ",
+        "fit": "đi làm, đi sự kiện, hay đi dạo phố,tạo vẻ trẻ trung quyến nữ tính cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-KHOAC-DA-TWEED-AK12012C"
+    },
+    {
+        "name": "ÁO VEST KẺ TAY BỒNG AK11192L",
+        "img": [
+            "/assets/shirst/shirst-11a_29_11zon.png",
+            "/assets/shirst/shirst-11b_30_11zon.png",
+            "/assets/shirst/shirst-11c_31_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code": 142321612124710201,
+        "price": 729500,
+        "priceOld": 1459000,
+        "sale":50,
+        "size": ["size-8"],
+        "color": ["brown"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế dáng peplum, vai bồng, cổ bẻ 2 ve, tone màu nâu vàng kết hợp họa tiết kẻ ",
+        "fit": "đi làm, sự kiện, hay đi dạo phố, tạo vẻ thanh lịch cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "AO-VEST-KE-TAY-BONG-AK11192L"
+    },
+    {
+        "name": "BLAZER THIẾT KẾ AK11322B",
+        "img": [
+            "/assets/shirst/shirst-12a_32_11zon.png",
+            "/assets/shirst/shirst-12b_33_11zon.png",
+            "/assets/shirst/shirst-12c_34_11zon.png"
+        ],
+        "type": {
+            "main": "ao-nu",
+            "sub": "ao-vest"
+        },
+        "code":142321612124710201 ,
+        "price": 979300,
+        "priceOld":  1399000,
+        "sale":30,
+        "size": ["size-4","size-8"],
+        "color": ["brown"],
+        "material": "vải tổng hợp cao cấp ",
+        "designs": "áo vest thiết kế dáng suông, tone màu nâu trơn, tay áo kết hợp họa tiết da beo ",
+        "fit": "lễ tết, cưới hỏi, đi sự kiện, tạo vẻ trẻ trung, duyên dáng cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "BLAZER-THIET-KE-AK11322B"
+    }
+]

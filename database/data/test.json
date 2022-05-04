@@ -1,0 +1,25 @@
+[
+    {
+        "name": "QUẦN SKINNY JEANS Q67132Z",
+        "img": [
+            "/assets/trousers/trouser-13a_1_11zon.png",
+            "/assets/trousers/trouser-13b_2_11zon.png",
+            "/assets/trousers/trouser-13c_3_11zon.png"
+        ],
+        "type":{
+            "main":"quan-nu",
+            "sub":"quan-jeans"
+        },
+        "code": 671321732130980449,
+        "price": 699000,
+        "size": ["size-4","size-6", "size-8"],
+        "color": ["black","blue"],
+        "material": "vải jeans cao cấp",
+        "designs": "quần jeans cạp cao tone màu xám khói trơn, cạp chun bản to",
+        "fit": "đi làm, đi sự kiện, hay đi dạo phố, tạo vẻ trẻ trung, hiện đại cho người mặc.",
+        "productLine": "NEM NEW",
+        "isPopular": false,
+        "isNewProduct": false,
+        "slug": "QUAN-SKINNY-JEANS-Q67132Z"
+    }
+]
