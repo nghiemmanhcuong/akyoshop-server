@@ -11,7 +11,7 @@ const categoryRouter = require('./routes/category.route');
 const blogRouter = require('./routes/blog.route');
 const orderRouter = require('./routes/order.route');
 const app = express();
-const post = process.env.POST || 5001;
+const post = process.env.PORT || 5001;
 
 // config
 app.use('/assets', express.static('assets'));
