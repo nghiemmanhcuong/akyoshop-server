@@ -11,7 +11,7 @@ const categoryRouter = require('./routes/category.route');
 const blogRouter = require('./routes/blog.route');
 const orderRouter = require('./routes/order.route');
 const app = express();
-const POST = process.env.POST || 5001;
+const post = process.env.POST || 5001;
 
 // config
 app.use('/assets', express.static('assets'));
@@ -33,6 +33,6 @@ app.use('/api/order', orderRouter);
 connectDB();
 
 // listen app
-app.listen(POST, () => {
-    console.log('server runing in post ' + POST);
+app.listen(post, () => {
+    console.log('server runing in post ' + post);
 });
