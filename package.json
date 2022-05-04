@@ -20,7 +20,7 @@
     "nodemon": "^2.0.16"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
